@@ -27,6 +27,6 @@ st.set_page_config("Astronomy Picture of the Day",
                    "blackFavicon.png")
 st.balloons()
 st.header(title)
-st.text("An application that shows the astronomy picture of the day.")
+st.text("An application that shows the astronomy picture of the day. By Josh Wzr")
 st.image(FILEPATH)
 st.write(description)
